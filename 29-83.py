@@ -1,4 +1,4 @@
-# Program to describe cruise ship cabin classes
+
 
 cabin_class = input("Enter the cabin class (LUX, A, B, C): ").upper()
 

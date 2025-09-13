@@ -1,5 +1,4 @@
 
-# Ask for biological gender and hemoglobin value
 gender = input("Enter biological gender (male/female): ").lower()
 hemoglobin = float(input("Enter hemoglobin value (g/l): "))
 
