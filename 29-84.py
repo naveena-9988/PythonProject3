@@ -1,4 +1,3 @@
-# Program to check hemoglobin levels
 
 # Ask for biological gender and hemoglobin value
 gender = input("Enter biological gender (male/female): ").lower()

@@ -1,7 +1,6 @@
 
 length = int(input("Enter the length of the zander in centimeters: "))
 
-
 limit = 42
 
 if length >= limit:
